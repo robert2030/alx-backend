@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-# File: 4-mru_cache.py
-# Author: Oluwatobiloba Light
+
 """Most Recently Used Cache Module"""
 
 from collections import OrderedDict
