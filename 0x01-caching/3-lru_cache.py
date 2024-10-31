@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-# File: 3-lru_cache.py
-# Author: Oluwatobiloba Light
+
 """LRU Cache Module"""
 
 from typing import OrderedDict
