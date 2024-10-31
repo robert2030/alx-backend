@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-# File: 100-lfu_cache.py
-# Author: Oluwatobiloba Light
+
 """Least Frequently Used Cache module"""
 
 from collections import OrderedDict
