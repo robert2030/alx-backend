@@ -1,6 +1,4 @@
 #!/usr/bin/env python3
-# File: 2-lifo_cache.py
-# Author: Oluwatobiloba Light
 """LIFO Cache module"""
 
 from collections import OrderedDict, deque
