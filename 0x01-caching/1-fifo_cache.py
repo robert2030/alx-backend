@@ -1,6 +1,4 @@
 #!/usr/bin/env python3
-# File: 1-fifo_cache.py
-# Author: Oluwatobiloba Light
 """
 FIFOCache module
 """
