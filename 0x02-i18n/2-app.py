@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # File: 2-app.py
-# Author: Oluwatobiloba Light
 """Get Locale from request"""
 
 from flask import Flask, render_template, request
