@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # File: 4-app.py
-# Author: Oluwatobiloba Light
 """Flask app with internalization support"""
 from flask import Flask, render_template, request
 from flask_babel import Babel
