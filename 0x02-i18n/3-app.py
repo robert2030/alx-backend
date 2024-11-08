@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # File: 3-app.py
-# Author: Oluwatobiloba Light
 """Parameterize templates"""
 from flask import Flask, render_template, request
 from flask_babel import Babel
