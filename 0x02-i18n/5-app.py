@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # File: 5-app.py
-# Author: Oluwatobiloba Light
 """Mock user login"""
 from typing import Dict, Union
 from flask import Flask, render_template, request, g
