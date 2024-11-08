@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # File: 0-app.py
-# Author: Oluwatobiloba Light
 """Basic flask app"""
 
 
