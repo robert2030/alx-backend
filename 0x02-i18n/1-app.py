@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# File: 1-app.py
 # Author: Oluwatobiloba Light
 """Basic Babel setup"""
 
