@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # File: 6-app.py
-# Author: Oluwatobiloba Light
+
 """User user locale"""
 from typing import Dict, Union
 from flask import Flask, render_template, request, g
